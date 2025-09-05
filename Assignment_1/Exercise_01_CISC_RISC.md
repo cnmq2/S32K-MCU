@@ -1,5 +1,5 @@
 
-## Complex Instruction Set Computer (CISC): 
+## 1. Complex Instruction Set Computer (CISC): 
 
  **Complex Instruction Set Computer (CISC)** is a type of microprocessor that is designed with a **large complex set of instructions**. 
 
@@ -31,7 +31,7 @@
 </table>
 
 
-## Reduced Instruction Set Computer (RISC):
+## 2. Reduced Instruction Set Computer (RISC):
  **Reduced Instruction Set Computer (RISC)** is a microprocessor that is designed to perform a smaller number of computer instruction types, 
  
  * It can operate at a higher speed, performing more millions of instructions per second, or MIPS. 
@@ -64,7 +64,7 @@
 
 
 
-## Comparison of RISC and CISC
+## 3. Comparison of RISC and CISC
 
 <table style="width:100%; border-collapse:collapse; table-layout:fixed; font-family:inherit;">
   <thead>
@@ -106,7 +106,7 @@
 
 
 
-# Personal opinion:
+## 4. Personal opinion:
 
 RISC is more suitable for modern embedded systems due to these reason:
 
