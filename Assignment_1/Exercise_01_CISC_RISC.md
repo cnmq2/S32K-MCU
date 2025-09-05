@@ -41,9 +41,11 @@
 
 
 ## Reduced Instruction Set Computer (RISC):
- **Reduced Instruction Set Computer (RISC)** is a type of microprocessor that is designed with a **large complex set of instructions**. 
+ **Reduced Instruction Set Computer (RISC)** is a microprocessor that is designed to perform a smaller number of computer instruction types, 
+ 
+ * It can operate at a higher speed, performing more millions of instructions per second, or MIPS. 
 
-* The main objective of a CISC processor is to minimize the program size by reducing the number of instructions in a program.
+* Since each instruction type that a computer performs requires additional transistors and circuitry, a larger list or set of computer instructions tends to make the microprocessor complicated.
 
 ### Advantages and Disadvantages of RISC
 
@@ -115,7 +117,7 @@
 
 # Personal opinion:
 
-RISC is more suitable for modern embedded systems due to:
+RISC is more suitable for modern embedded systems due to these reason:
 
 * Offers higher execution speed and better pipelining.
 
