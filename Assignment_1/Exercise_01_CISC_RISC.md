@@ -1,13 +1,4 @@
 
-# Instruction Set Architecture (ISA):
-
- **Instruction Set Architecture (ISA)** is part of the abstract model of a computer that defines how the CPU is controlled by the software. 
-* The ISA acts as an interface between the hardware and the software, specifying both what the processor is capable of doing as well as how it gets done.
-
-* The ISA defines the various **instructions**, **registers** and **memory addressing** modes that the processor would support, at a hardware level. Software created to run on an ISA would be designed to use the ISA's instructions, register and memory addressing modes.
-
-
-
 ## Complex Instruction Set Computer (CISC): 
 
  **Complex Instruction Set Computer (CISC)** is a type of microprocessor that is designed with a **large complex set of instructions**. 
